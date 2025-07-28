@@ -14,7 +14,7 @@ Required Go packages:
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/kbot.git
+git clone https://github.com/DionisZ/kbot.git
 cd kbot
 ```
 
