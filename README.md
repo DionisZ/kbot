@@ -12,16 +12,18 @@ Required Go packages:
     gopkg.in/telebot.v4
 
 
-    Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/yourusername/kbot.git
 cd kbot
 ```
-    Set up your Telegram Bot Token:
+
+Set up your Telegram Bot Token:
 ```bash
 export TELE_TOKEN="your_telegram_bot_token"
 ```
-    Build the application:
+
+Build the application:
 ```bash
 go build -ldflags "-X="github.com/DionisZ/kbot/cmd.appVersion=v1.0.2
 ```
